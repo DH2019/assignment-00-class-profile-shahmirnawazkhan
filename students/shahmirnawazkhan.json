@@ -1,0 +1,14 @@
+{
+  "firstName": "Raja Shahmir Nawaz",
+  "lastName": "Khan",
+  "nickName": false,
+  "privateName": false,
+  "picture": "images/shahmirnawazkhan.jpg",
+  "privatePicture": false,
+  "email": "shahmirnawaz.khan@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "shahmirnawazkhan",
+  "privateGithub": false,
+  "superpower" : "Flying",
+  "academicinterests": "World History & Politics"
+}
